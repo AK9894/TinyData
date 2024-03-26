@@ -42,7 +42,6 @@ Utilize the dplyr package to
 -   group the data set by subject ID and activity (group\_by)
 -   summarize the grouped data set and calculate the average of each variable (summarise\_all(funs\_mean))
 
-For the detailed script, please refer to the run\_analysis.R file.
 
 FEATURE SELECTION
 -----------------
