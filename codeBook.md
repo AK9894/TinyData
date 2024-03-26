@@ -37,7 +37,7 @@ CODE PROCESS
 
 ### 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject
 
-    Utilize the dplyr package to
+Utilize the dplyr package to
 
 -   group the data set by subject ID and activity (group\_by)
 -   summarize the grouped data set and calculate the average of each variable (summarise\_all(funs\_mean))
